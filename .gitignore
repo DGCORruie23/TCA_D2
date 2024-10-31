@@ -1,0 +1,17 @@
+entorno
+.entorno
+.DS_Store
+*.pyc
+db.sqlite3
+migrations
+media/mensajes/
+.env
+env
+static/
+.gcloudignore
+cloud-sql-proxy
+cloudmigrate.yaml
+retry.sh
+backup_DB/
+venv/
+.env.example
